@@ -133,4 +133,3 @@ SELECT type1, propertyNo, rent, rent-rent*0.05 as rent2
 UPDATE Staff
 SET position1="Manager"
 WHERE position1="Assistant";
-
